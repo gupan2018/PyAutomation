@@ -1,0 +1,6 @@
+
+DEBUG <module> 47 2017-07-01 19:24:30,528 this is a debug msg
+INFO <module> 48 2017-07-01 19:24:30,528 this is a info msg
+WARNING <module> 49 2017-07-01 19:24:30,528 this is a warning msg
+ERROR <module> 50 2017-07-01 19:24:30,529 this is a error msg
+CRITICAL <module> 51 2017-07-01 19:24:30,529 this is a critical msg

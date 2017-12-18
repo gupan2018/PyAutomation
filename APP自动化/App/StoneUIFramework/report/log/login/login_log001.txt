@@ -1,0 +1,61 @@
+2017-07-16 22:40:37,221 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/elements {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/iv_left", "using": "id"}
+2017-07-16 22:40:37,299 Finished Request
+2017-07-16 22:40:40,309 GET http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/screenshot {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3"}
+2017-07-16 22:40:43,378 Finished Request
+2017-07-16 22:40:43,384 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/main_login", "using": "id"}
+2017-07-16 22:40:43,408 Finished Request
+2017-07-16 22:40:43,409 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element/1/click {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "id": "1"}
+2017-07-16 22:40:43,738 Finished Request
+2017-07-16 22:40:43,739 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/login_et_photo", "using": "id"}
+2017-07-16 22:40:44,261 Finished Request
+2017-07-16 22:40:44,262 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element/2/value {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "id": "2", "value": ["1", "3", "6", "6", "7", "6", "1", "8", "0", "2", "1"]}
+2017-07-16 22:40:48,909 Finished Request
+2017-07-16 22:40:49,910 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/login_et_password", "using": "id"}
+2017-07-16 22:40:50,014 Finished Request
+2017-07-16 22:40:50,015 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element/3/value {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "id": "3", "value": ["f", "r", "e", "e", "1", "2", "3", "4", "5", "6"]}
+2017-07-16 22:40:54,706 Finished Request
+2017-07-16 22:40:56,716 GET http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/screenshot {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3"}
+2017-07-16 22:40:59,252 Finished Request
+2017-07-16 22:40:59,256 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/login_btn", "using": "id"}
+2017-07-16 22:40:59,311 Finished Request
+2017-07-16 22:40:59,312 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element/4/click {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "id": "4"}
+2017-07-16 22:40:59,468 Finished Request
+2017-07-16 22:41:00,469 GET http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/screenshot {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3"}
+2017-07-16 22:41:03,177 Finished Request
+2017-07-16 22:41:06,184 GET http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/screenshot {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3"}
+2017-07-16 22:41:08,988 Finished Request
+2017-07-16 22:41:08,996 finallyloginHomePage@@!!!!!!!
+2017-07-16 22:41:08,996 success@@!!!!!!!
+2017-07-16 22:41:08,997 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/navi_item_zone", "using": "id"}
+2017-07-16 22:41:09,064 Finished Request
+2017-07-16 22:41:09,065 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element/5/click {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "id": "5"}
+2017-07-16 22:41:09,387 Finished Request
+2017-07-16 22:41:10,388 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/elements {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/zone_company_title", "using": "id"}
+2017-07-16 22:41:10,816 Finished Request
+2017-07-16 22:41:10,817 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element/6/click {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "id": "6"}
+2017-07-16 22:41:10,985 Finished Request
+2017-07-16 22:41:12,986 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/touch/perform {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "actions": [{"action": "longPress", "options": {"duration": 500, "x": 1001, "y": 201}}, {"action": "release", "options": {}}]}
+2017-07-16 22:41:13,550 Finished Request
+2017-07-16 22:41:14,550 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/btn_pop_company_team", "using": "id"}
+2017-07-16 22:41:14,589 Finished Request
+2017-07-16 22:41:14,590 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element/9/click {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "id": "9"}
+2017-07-16 22:41:15,017 Finished Request
+2017-07-16 22:41:16,018 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/title_main_tv_more_menu", "using": "id"}
+2017-07-16 22:41:16,507 Finished Request
+2017-07-16 22:41:16,508 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element/10/click {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "id": "10"}
+2017-07-16 22:41:17,007 Finished Request
+2017-07-16 22:41:18,008 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/pop_teamedit_personnel", "using": "id"}
+2017-07-16 22:41:18,050 Finished Request
+2017-07-16 22:41:18,051 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element/11/click {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "id": "11"}
+2017-07-16 22:41:21,201 Finished Request
+2017-07-16 22:41:22,205 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/elements {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/removaljobs_name", "using": "id"}
+2017-07-16 22:41:22,297 Finished Request
+2017-07-16 22:41:22,298 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/element/12/click {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "id": "12"}
+2017-07-16 22:41:22,473 Finished Request
+2017-07-16 22:41:23,474 POST http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/elements {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3", "value": "com.yunlu6.stone:id/tag_id", "using": "id"}
+2017-07-16 22:41:36,029 Finished Request
+2017-07-16 22:41:37,030 GET http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3/screenshot {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3"}
+2017-07-16 22:41:39,411 Finished Request
+2017-07-16 22:41:39,414 finally@@!!!!!!!
+2017-07-16 22:41:39,415 DELETE http://127.0.0.1:4723/wd/hub/session/7316dfbb-4dd5-4ac8-a55e-bcb9120204e3 {"sessionId": "7316dfbb-4dd5-4ac8-a55e-bcb9120204e3"}
+2017-07-16 22:41:41,815 Finished Request
