@@ -12,8 +12,8 @@ class TestLogin(unittest.TestCase):
     测试登陆
     """
     def setUp(self):
-        self.username = '13667618021@sina.cn'
-        self.password = 'qwer1234'
+        self.username = 'username@sina.cn'
+        self.password = 'userpassword'
         self.driver = webdriver.Chrome()
         self.base_url = settings.base_url
 
@@ -37,7 +37,7 @@ class TestLogin(unittest.TestCase):
             login_page.submit()
 
             text = self.driver.find_element_by_xpath('html/body/div[1]/div/div[4]/div[1]/div[3]/div[1]/span/em[2]').text
-            self.assertEqual(text, '17383107596@sina.cn', '用户名称不匹配，登陆失败！')
+            self.assertEqual(text, 'checkusername@sina.cn', '用户名称不匹配，登陆失败！')
         except AssertionError as e:
             print(e)
         finally:
